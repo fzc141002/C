@@ -22,8 +22,8 @@ int main()
 		GRBVar y = model.addVar(0, 1, 0, GRB_BINARY, "y");
 		GRBVar z = model.addVar(0, 1, 0, GRB_BINARY, "z");
 
-		//定义目标函数
-		model.setObjective(x + y + 2 * z);
+		//定义目标函数，注意添加优化方向
+		model.setObjective(x + y + 2 * z,GRB_MAXIMIZE);
 
 		//定义约束
 		model.addConstr(x + 2 * y + 3 * z <= 4, "约束1");
@@ -39,9 +39,9 @@ int main()
 		{
 			//获得当前目标函数的值
 			double objval = model.get(GRB_DoubleAttr_ObjVal);
-			cout << "模型找到了最优解为" << objval << endl;
+			cout << "当前目标函数为" << objval << endl;
 			//输出当前模型找到了几个可行解 
-			cout << "当前模型共有" << model.get(GRB_IntAttr_SolCount) << endl;
+			cout << "当前模型可行解的数量为" << model.get(GRB_IntAttr_SolCount) << endl;
 			cout << x.get(GRB_StringAttr_VarName) << ":" << x.get(GRB_DoubleAttr_X) << endl;
 			cout << y.get(GRB_StringAttr_VarName) << ":" << y.get(GRB_DoubleAttr_X) << endl;
 			cout << z.get(GRB_StringAttr_VarName) << ":" << z.get(GRB_DoubleAttr_X) << endl;
