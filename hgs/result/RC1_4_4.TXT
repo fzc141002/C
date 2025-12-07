@@ -1,0 +1,192 @@
+======================Params======================
+Seed: 0
+Penalty Capacity Initial: 5	After the update: 1.27862
+Penalty Early Initial: 0	After the update: 0
+Penalty Late Initial: 5	After the update: 686.853
+Route Weight: 10000	Penalty route: 500
+======================Result======================
+Route #1: 0->155->25->73->192->326->249->112->132->197->74->293->21->223->0
+Distance: 272.7
+Total Demand: 200
+Total Time 761.48
+
+Route #2: 0->162->225->280->220->229->64->338->29->122->79->139->0
+Distance: 300.9
+Total Demand: 200
+Total Time 756.3
+
+Route #3: 0->94->96->263->71->51->292->27->303->198->230->68->147->0
+Distance: 226.07
+Total Demand: 200
+Total Time 757
+
+Route #4: 0->343->99->228->61->42->342->265->113->156->45->283->0
+Distance: 192.75
+Total Demand: 200
+Total Time 758.27
+
+Route #5: 0->337->379->160->388->312->257->354->19->146->0
+Distance: 215.58
+Total Demand: 200
+Total Time 758.55
+
+Route #6: 0->238->349->375->177->355->210->39->400->117->136->383->0
+Distance: 145.24
+Total Demand: 200
+Total Time 285.32
+
+Route #7: 0->186->245->332->190->206->235->291->111->279->10->114->150->0
+Distance: 227.8
+Total Demand: 200
+Total Time 746.51
+
+Route #8: 0->376->8->252->353->43->205->189->50->67->0
+Distance: 215.34
+Total Demand: 199
+Total Time 745.88
+
+Route #9: 0->182->125->282->259->131->36->359->250->398->58->0
+Distance: 156.25
+Total Demand: 199
+Total Time 631.88
+
+Route #10: 0->35->357->142->269->323->145->377->346->362->233->203->0
+Distance: 189.96
+Total Demand: 198
+Total Time 745.47
+
+Route #11: 0->13->378->218->171->248->176->395->215->102->48->336->175->70->66->0
+Distance: 298.48
+Total Demand: 198
+Total Time 756.78
+
+Route #12: 0->331->98->81->83->240->37->254->311->212->60->0
+Distance: 221.59
+Total Demand: 199
+Total Time 756.46
+
+Route #13: 0->121->222->55->236->188->227->216->244->309->16->80->247->0
+Distance: 297.68
+Total Demand: 197
+Total Time 759.29
+
+Route #14: 0->95->149->31->258->366->101->237->158->290->103->28->0
+Distance: 195.29
+Total Demand: 198
+Total Time 565.72
+
+Route #15: 0->256->296->143->76->214->363->32->23->12->144->93->0
+Distance: 96.74
+Total Demand: 200
+Total Time 747.42
+
+Route #16: 0->75->318->217->369->178->120->128->386->106->46->270->0
+Distance: 197.76
+Total Demand: 200
+Total Time 756.26
+
+Route #17: 0->213->211->361->169->172->317->276->219->72->140->0
+Distance: 135.24
+Total Demand: 198
+Total Time 759.68
+
+Route #18: 0->391->288->295->89->4->110->345->195->239->364->109->271->1->0
+Distance: 225.92
+Total Demand: 200
+Total Time 758.28
+
+Route #19: 0->164->196->316->243->179->352->285->319->126->284->0
+Distance: 142.89
+Total Demand: 198
+Total Time 294.16
+
+Route #20: 0->277->334->124->231->314->300->339->174->268->86->33->18->0
+Distance: 233.86
+Total Demand: 200
+Total Time 757.07
+
+Route #21: 0->168->118->163->20->105->310->191->166->119->261->173->0
+Distance: 302.8
+Total Demand: 199
+Total Time 755.04
+
+Route #22: 0->393->127->165->90->360->108->3->242->344->348->2->77->313->0
+Distance: 145.67
+Total Demand: 199
+Total Time 757.05
+
+Route #23: 0->97->266->224->226->170->53->370->141->47->159->85->0
+Distance: 181.8
+Total Demand: 200
+Total Time 726.26
+
+Route #24: 0->204->34->307->330->324->373->56->151->374->49->0
+Distance: 220.55
+Total Demand: 199
+Total Time 759.32
+
+Route #25: 0->181->297->380->5->347->385->91->161->0
+Distance: 213.1
+Total Demand: 198
+Total Time 764.4
+
+Route #26: 0->368->274->88->365->54->387->390->351->44->187->304->63->0
+Distance: 222.76
+Total Demand: 192
+Total Time 756.02
+
+Route #27: 0->306->287->255->134->264->320->260->30->24->281->199->0
+Distance: 212.33
+Total Demand: 200
+Total Time 756.17
+
+Route #28: 0->328->278->9->381->321->100->298->241->135->315->202->0
+Distance: 191.17
+Total Demand: 194
+Total Time 745.94
+
+Route #29: 0->107->207->180->52->123->138->65->26->154->384->133->184->0
+Distance: 212.32
+Total Demand: 196
+Total Time 745.55
+
+Route #30: 0->185->137->294->302->341->382->394->11->15->327->0
+Distance: 211.98
+Total Demand: 200
+Total Time 752.51
+
+Route #31: 0->208->301->396->92->115->367->267->129->272->340->308->0
+Distance: 200.14
+Total Demand: 196
+Total Time 758.83
+
+Route #32: 0->273->22->329->193->153->167->358->84->104->14->201->0
+Distance: 183.36
+Total Demand: 181
+Total Time 728.65
+
+Route #33: 0->262->325->40->372->148->251->62->6->7->69->333->59->0
+Distance: 211.18
+Total Demand: 199
+Total Time 757.82
+
+Route #34: 0->41->232->78->392->130->253->275->209->399->38->221->0
+Distance: 239.46
+Total Demand: 190
+Total Time 763.26
+
+Route #35: 0->87->389->116->305->286->57->246->356->397->200->371->17->194->0
+Distance: 254.14
+Total Demand: 200
+Total Time 665.2
+
+Route #36: 0->322->299->335->82->152->289->350->157->234->183->0
+Distance: 252.35
+Total Demand: 200
+Total Time 764.72
+
+======================Total======================
+ALL Calculate time 204425
+timeSum 25814.5
+distanceSum 7643.15
+total_Cost 367643
